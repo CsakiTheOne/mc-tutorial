@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mc-tutorial/static/css/main.31029a0b.css",
-    "main.js": "/mc-tutorial/static/js/main.3ec0bdad.js",
+    "main.css": "/mc-tutorial/static/css/main.2c8f1f83.css",
+    "main.js": "/mc-tutorial/static/js/main.9f112879.js",
     "static/js/787.875e0e29.chunk.js": "/mc-tutorial/static/js/787.875e0e29.chunk.js",
     "static/media/icons-minecraft-0.4.png": "/mc-tutorial/static/media/icons-minecraft-0.4.efb7310ff2b2c12e32e8.png",
     "index.html": "/mc-tutorial/index.html",
-    "main.31029a0b.css.map": "/mc-tutorial/static/css/main.31029a0b.css.map",
-    "main.3ec0bdad.js.map": "/mc-tutorial/static/js/main.3ec0bdad.js.map",
+    "main.2c8f1f83.css.map": "/mc-tutorial/static/css/main.2c8f1f83.css.map",
+    "main.9f112879.js.map": "/mc-tutorial/static/js/main.9f112879.js.map",
     "787.875e0e29.chunk.js.map": "/mc-tutorial/static/js/787.875e0e29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31029a0b.css",
-    "static/js/main.3ec0bdad.js"
+    "static/css/main.2c8f1f83.css",
+    "static/js/main.9f112879.js"
   ]
 }
