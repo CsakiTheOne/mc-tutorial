@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mc-tutorial/static/css/main.31029a0b.css",
+    "main.js": "/mc-tutorial/static/js/main.3ec0bdad.js",
+    "static/js/787.875e0e29.chunk.js": "/mc-tutorial/static/js/787.875e0e29.chunk.js",
+    "static/media/icons-minecraft-0.4.png": "/mc-tutorial/static/media/icons-minecraft-0.4.efb7310ff2b2c12e32e8.png",
+    "index.html": "/mc-tutorial/index.html",
+    "main.31029a0b.css.map": "/mc-tutorial/static/css/main.31029a0b.css.map",
+    "main.3ec0bdad.js.map": "/mc-tutorial/static/js/main.3ec0bdad.js.map",
+    "787.875e0e29.chunk.js.map": "/mc-tutorial/static/js/787.875e0e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31029a0b.css",
+    "static/js/main.3ec0bdad.js"
+  ]
+}
