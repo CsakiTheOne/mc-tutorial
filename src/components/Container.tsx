@@ -6,7 +6,7 @@ interface ContainerProps {
 
 const Container: React.FC<ContainerProps> = ({ children }) => {
     return (
-        <div className="container" style={{ padding: '0 5vw' }}>
+        <div style={{ padding: '0 5vw' }}>
             {children}
         </div>
     );

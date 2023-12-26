@@ -6,16 +6,14 @@ interface HintProps {
 }
 
 const Hint: React.FC<HintProps> = ({ children }) => {
-    return (
-        <details className='hint'>
-            <summary className='title'>
-                HINT
-            </summary>
-            <div>
-                {children}
-            </div>
-        </details>
-    );
+    return <details className='hint'>
+        <summary className='hint-title'>
+            HINT
+        </summary>
+        <div>
+            {children}
+        </div>
+    </details>;
 };
 
 export default Hint;

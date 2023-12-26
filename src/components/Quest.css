@@ -1,4 +1,4 @@
-.advancement {
+.quest-advancement {
     display: flex;
     flex-direction: column;
     margin: 8px;
@@ -7,7 +7,7 @@
     border-radius: 4px;
 }
 
-.icon-minecraft {
+.quest-header > .icon-minecraft {
     margin: -16px 0 -16px -8px;
     padding: 16px;
     background-color: #b98f2b;
@@ -15,7 +15,7 @@
     border-radius: 4px;
 }
 
-.header {
+.quest-header {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -23,13 +23,14 @@
     background-color: #b98f2b;
     border: #010000 solid 2px;
     border-radius: 4px;
+    cursor: pointer;
 }
 
-.title {
+.quest-title {
     padding-left: 8px;
     text-shadow: #5a4617 2px 2px 0px;
 }
 
-.description {
+.quest-description {
     padding: 8px;
 }

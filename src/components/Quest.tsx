@@ -9,17 +9,15 @@ interface QuestProps {
 }
 
 const Quest: React.FC<QuestProps> = ({ icon, title, children }) => {
-    return (
-        <div className="advancement">
-            <div className="header">
-                <div className={'icon-minecraft icon-minecraft-' + icon}></div>
-                <span className='title'>{title}</span>
-            </div>
-            <div className="description">
-                {children}
-            </div>
+    return <details className="quest-advancement">
+        <summary className="quest-header">
+            <div className={'icon-minecraft icon-minecraft-' + icon}></div>
+            <span className='quest-title'>{title}</span>
+        </summary>
+        <div className="quest-description">
+            {children}
         </div>
-    );
+    </details>;
 };
 
 export default Quest;
