@@ -1,0 +1,35 @@
+.advancement {
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+    background-color: #202020;
+    border: 3px solid #3b3b3b;
+    border-radius: 8px;
+}
+
+.icon-minecraft {
+    margin: -16px 0 -16px -8px;
+    padding: 16px;
+    background-color: #b98f2b;
+    border: #010000 solid 2px;
+    border-radius: 8px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 4px;
+    background-color: #b98f2b;
+    border: #010000 solid 2px;
+    border-radius: 8px;
+}
+
+.title {
+    padding-left: 8px;
+    text-shadow: #5a4617 2px 2px 0px;
+}
+
+.description {
+    padding: 8px;
+}
