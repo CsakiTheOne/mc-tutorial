@@ -1,0 +1,21 @@
+.hint * {
+    transition: all 0.2s ease-in-out;
+}
+
+.hint {
+    display: inline-block;
+    border: 3px solid #5c5c5c;
+    border-radius: 4px;
+    background-color: #3b3b3b;
+    padding: 8px;
+    margin: 8px;
+    box-sizing: border-box;
+}
+
+.hint .title {
+    cursor: pointer;
+}
+
+.hint div {
+    margin-top: 10px;
+}

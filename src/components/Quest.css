@@ -4,7 +4,7 @@
     margin: 8px;
     background-color: #202020;
     border: 3px solid #3b3b3b;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .icon-minecraft {
@@ -12,7 +12,7 @@
     padding: 16px;
     background-color: #b98f2b;
     border: #010000 solid 2px;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .header {
@@ -22,7 +22,7 @@
     padding: 4px;
     background-color: #b98f2b;
     border: #010000 solid 2px;
-    border-radius: 8px;
+    border-radius: 4px;
 }
 
 .title {
