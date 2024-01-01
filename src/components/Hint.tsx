@@ -2,13 +2,14 @@ import React, { ReactNode } from 'react';
 import './Hint.css';
 
 interface HintProps {
+    title?: string;
     children: ReactNode;
 }
 
-const Hint: React.FC<HintProps> = ({ children }) => {
+const Hint: React.FC<HintProps> = ({ title = 'HINT', children }) => {
     return <details className='hint'>
         <summary className='hint-title'>
-            HINT
+            {title}
         </summary>
         <div>
             {children}
